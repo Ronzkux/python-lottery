@@ -24,5 +24,3 @@ Nivå 10: 10, 9, 8, 7, 6, 5 eller 0 rätt. (0 ger i Keno tillbaka summan som spe
 
 Jokeri: 7st nummer med ingen extra, mellan 0-9. Kan vara dubbelt.
 Du kan vinna med: Att få exakt samma nummer på samma ställe som i vinnande radet.
-
-- Ronja
